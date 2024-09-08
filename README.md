@@ -1,1 +1,3 @@
-# Kill-Switch
+# Kill Switch
+
+This program is still in development...
